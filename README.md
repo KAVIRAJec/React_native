@@ -6,7 +6,7 @@ Welcome to my repository containing  React Native projects. Each sub-folder repr
 
 Here's a list of projects available in this repository:
 
-### [Project 1: ToDo List App](TO-DO_List/)
+### [Project 1: ToDo List App]
 
 A simple ToDo List mobile app developed using React Native. It allows you to create, manage, and organize your tasks efficiently.
 
